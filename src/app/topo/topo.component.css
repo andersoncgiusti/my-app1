@@ -1,3 +1,8 @@
-.teste {
-    color: red;
+.navbar {
+    background: #1CB0F6 !important; 
+    color: white !important;
+}
+
+.navbar-brand {
+    padding-left: 30px;
 }
